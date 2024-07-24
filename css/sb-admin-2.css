@@ -69,6 +69,13 @@ body {
   background-color: #fff;
 }
 
+@font-face {
+
+    font-family: "Playwrite Argentina";
+    src: url("https://fonts.google.com/specimen/Playwrite+AR");
+  
+}
+
 [tabindex="-1"]:focus:not(:focus-visible) {
   outline: 0 !important;
 }
